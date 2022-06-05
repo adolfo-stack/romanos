@@ -136,12 +136,12 @@ def convertir_a_numero(romano):
 
 if __name__ == "__main__":
 
-print(convertir_a_numero("IV"))
+#print(convertir_a_numero("IV"))
 
-print(convertir_a_numero("X"))
+#print(convertir_a_numero("X"))
 
-print(convertir_a_numero("MCXXIII"))
+#print(convertir_a_numero("MCXXIII"))
 
-print(convertir_a_numero("IC"))
+#print(convertir_a_numero("IC"))
 
-print(convertir_a_numero("VX"))
+#print(convertir_a_numero("VX"))
